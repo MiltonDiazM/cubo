@@ -1,0 +1,3 @@
+C:/Users/diazm/CLionProjects/cubo/cmake-build-debug/CMakeFiles/cubo.dir
+C:/Users/diazm/CLionProjects/cubo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diazm/CLionProjects/cubo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

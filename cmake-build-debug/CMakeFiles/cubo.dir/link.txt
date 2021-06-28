@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cubo.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\cubo.dir/objects.a @CMakeFiles\cubo.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cubo.dir/objects.a -Wl,--no-whole-archive -o cubo.exe -Wl,--out-implib,libcubo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cubo.dir\linklibs.rsp
